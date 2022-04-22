@@ -33,6 +33,6 @@ public class HotelWebappTest {
         list.add("New-York");
 	    assertEquals(list, toto);
 	    
-	    mainPage.tableLoop();
+	   // mainPage.tableLoop();
 	}
 }
