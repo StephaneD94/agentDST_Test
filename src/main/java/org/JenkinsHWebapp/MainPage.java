@@ -32,6 +32,7 @@ public class MainPage {
 	    return options;
     }
     
+    /*
     public void tableLoop() throws FileNotFoundException {
        // Now get all the TR elements from the table
 	    List<WebElement> allRows = table.findElements(By.tagName("tr"));
@@ -54,6 +55,7 @@ public class MainPage {
 	        System.out.println(fileCSV);
 	    }
     }
+    */
     
 	public void selectClick() {
 		select.click();
